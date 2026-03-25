@@ -1,0 +1,1 @@
+A Streamlit-powered Machine Learning web application designed to predict loan-related outcomes based on financial attributes. The application supports dataset upload, data cleaning, feature engineering, model training, and performance evaluation, providing users with an interactive and user-friendly interface.
