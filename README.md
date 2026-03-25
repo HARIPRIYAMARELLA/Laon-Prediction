@@ -50,10 +50,10 @@ A Machine Learning-powered web application that predicts loan-related outcomes b
 ---
 
 ## 📂 Project Structure
-oan-Prediction-ML-App/
-│── app.py
-│── requirements.txt
-│── README.md        
+Loan-Prediction-ML-App/
+1.app.py
+2.requirements.txt
+3.README.md        
 ----
 
 📊 How It Works
