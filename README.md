@@ -50,10 +50,10 @@ A Machine Learning-powered web application that predicts loan-related outcomes b
 ---
 
 ## 📂 Project Structure
-
-├── app.py                # Main Streamlit application
-├── requirements.txt     # Dependencies
-└── README.md            # Project documentation
+oan-Prediction-ML-App/
+│── app.py
+│── requirements.txt
+│── README.md        
 ----
 
 📊 How It Works
